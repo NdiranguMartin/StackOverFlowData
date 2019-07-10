@@ -7,11 +7,13 @@
     "folds" : "",
     "hash" : "1978250453",
     "id" : "C7D336D2",
-    "lastKnownWriteTime" : 1561479914,
-    "last_content_update" : 1561479914,
+    "lastKnownWriteTime" : 1561495460,
+    "last_content_update" : 1561495460473,
     "path" : "D:/classwork/R-Programming/Training with Carlvin/StackOverFlowData/EDA for StackScAled data.R",
     "project_path" : "EDA for StackScAled data.R",
     "properties" : {
+        "cursorPosition" : "14,10",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
